@@ -1,0 +1,1 @@
+/home/byron/System-Compile-Language-Related/switch-chinese-time-descriptor-starship/target/release/switch-chinese-time-descriptor-starship_rust: /home/byron/System-Compile-Language-Related/switch-chinese-time-descriptor-starship/src/main.rs
